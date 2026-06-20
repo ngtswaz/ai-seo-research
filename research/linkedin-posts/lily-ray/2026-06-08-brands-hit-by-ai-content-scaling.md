@@ -1,0 +1,25 @@
+---
+author: Lily Ray
+author_slug: lily-ray
+date: 2026-06-08
+url: https://www.linkedin.com/feed/update/urn:li:activity:7469712876962807808/
+likes: ~724
+topic_tags: [ai-content, seo, scaled-content, core-update, case-study, b2b-saas]
+---
+
+These are 3 well-known brands that are also listed as case studies of AI content scaling tools.
+
+They scaled a lot of page templates that can manipulate AI answers, like excessive "best X" content, self-promotional listicles, scaled comparison/alternative pages, etc. There's also some spammy structured data in the mix.
+
+Each site was hit hard by the Jan 20 update this year (which I wrote about in my Substack - link in comments), and the crash has continued ever since. This last core update only accelerated the declines.
+
+These screenshots are views of the US organic Google visibility across their entire domains (via SISTRIX); even though the AI content generation appears to have been isolated to one subfolder on the site (from what I can tell), the impact is happening across the full domains.
+
+Now all companies are at the lowest organic search visibility they've seen in 5+ years.
+
+Google is not playing around. And I think they're making some new changes related to "inauthentic mentions." I'm working on that research now, so stay tuned.
+
+---
+
+**Why I saved this:**
+A cautionary case study: brands featured by AI content-scaling tools got hammered by Google core updates, with damage spreading domain-wide beyond the AI-generated subfolder. Critical risk evidence for any B2B SaaS weighing AI-scaled content production.
