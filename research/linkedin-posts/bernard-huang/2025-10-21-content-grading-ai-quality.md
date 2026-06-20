@@ -2,7 +2,7 @@
 author: Bernard Huang
 author_slug: bernard-huang
 date: 2025-10-21
-url: https://www.linkedin.com/posts/bernardhuang_contentmarketing-seo-aiwriting-activity-7254321098765432064
+url: https://www.linkedin.com/in/bernardhuang/recent-activity/all/
 likes: ~540
 topic_tags: [content-grading, ai-quality, clearscope, topic-coverage]
 ---

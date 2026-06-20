@@ -2,7 +2,7 @@
 author: Kevin Indig
 author_slug: kevin-indig
 date: 2026-01-28
-url: https://www.linkedin.com/posts/kevinindig_seo-aicontentmarketing-b2bsaas-activity-7288901234567890123
+url: https://www.linkedin.com/in/kevinindig/recent-activity/all/
 likes: ~850
 topic_tags: [ai-content-strategy, b2b-saas, content-operations, 2026]
 ---

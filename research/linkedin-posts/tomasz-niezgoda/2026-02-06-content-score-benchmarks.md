@@ -2,7 +2,7 @@
 author: Tomasz Niezgoda
 author_slug: tomasz-niezgoda
 date: 2026-02-06
-url: https://www.linkedin.com/posts/tomasz-niezgoda_surferseo-contentscoring-seo-activity-7291234567890123456
+url: https://www.linkedin.com/in/tomasz-niezgoda/recent-activity/all/
 likes: ~560
 topic_tags: [content-scoring, surfer-seo, benchmarks, content-quality]
 ---

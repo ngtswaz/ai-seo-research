@@ -2,7 +2,7 @@
 author: Nate Matherson
 author_slug: nate-matherson
 date: 2025-10-14
-url: https://www.linkedin.com/posts/natematherson_contentmarketing-seo-b2bsaas-activity-7252345678901234567
+url: https://www.linkedin.com/in/natematherson/recent-activity/all/
 likes: ~480
 topic_tags: [content-optimization, positional, b2b-saas, content-analytics]
 ---

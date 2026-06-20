@@ -2,7 +2,7 @@
 author: Ross Simmonds
 author_slug: ross-simmonds
 date: 2025-12-11
-url: https://www.linkedin.com/posts/rosssimmonds_contentdistribution-b2bmarketing-seo-activity-7273012345678901234
+url: https://www.linkedin.com/in/rosssimmonds/recent-activity/all/
 likes: ~980
 topic_tags: [content-distribution, b2b-marketing, repurposing, ai-tools]
 ---

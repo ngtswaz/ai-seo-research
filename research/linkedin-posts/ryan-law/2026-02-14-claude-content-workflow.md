@@ -2,7 +2,7 @@
 author: Ryan Law
 author_slug: ryan-law
 date: 2026-02-14
-url: https://www.linkedin.com/posts/ryanlaw91_claude-aiwriting-contentproduction-activity-7293456789012345678
+url: https://www.linkedin.com/in/ryanlaw91/recent-activity/all/
 likes: ~940
 topic_tags: [claude-ai, content-workflow, ahrefs, ai-tools]
 ---

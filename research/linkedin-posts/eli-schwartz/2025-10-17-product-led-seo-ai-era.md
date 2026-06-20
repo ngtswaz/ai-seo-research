@@ -2,7 +2,7 @@
 author: Eli Schwartz
 author_slug: eli-schwartz
 date: 2025-10-17
-url: https://www.linkedin.com/posts/schwartze_productledseo-seo-aicontentmarketing-activity-7253456789012345678
+url: https://www.linkedin.com/in/schwartze/recent-activity/all/
 likes: ~820
 topic_tags: [product-led-seo, ai-content, when-not-to-use-ai, content-strategy]
 ---

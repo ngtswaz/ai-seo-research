@@ -2,7 +2,7 @@
 author: Eli Schwartz
 author_slug: eli-schwartz
 date: 2025-12-05
-url: https://www.linkedin.com/posts/schwartze_aicontent-seo-contentmarketing-activity-7271234567890123456
+url: https://www.linkedin.com/in/schwartze/recent-activity/all/
 likes: ~1100
 topic_tags: [ai-content-failure, google-penalty, helpful-content, warning]
 ---

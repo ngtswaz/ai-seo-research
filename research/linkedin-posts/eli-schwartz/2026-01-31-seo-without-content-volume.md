@@ -2,7 +2,7 @@
 author: Eli Schwartz
 author_slug: eli-schwartz
 date: 2026-01-31
-url: https://www.linkedin.com/posts/schwartze_seo-productledseo-b2bsaas-activity-7289012345678901234
+url: https://www.linkedin.com/in/schwartze/recent-activity/all/
 likes: ~740
 topic_tags: [product-led-seo, b2b-saas, organic-growth, content-strategy]
 ---

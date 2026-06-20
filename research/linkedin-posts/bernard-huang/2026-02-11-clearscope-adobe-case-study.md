@@ -2,7 +2,7 @@
 author: Bernard Huang
 author_slug: bernard-huang
 date: 2026-02-11
-url: https://www.linkedin.com/posts/bernardhuang_contentmarketing-seo-casestudy-activity-7292345678901234688
+url: https://www.linkedin.com/in/bernardhuang/recent-activity/all/
 likes: ~620
 topic_tags: [case-study, enterprise-seo, content-optimization, roi]
 ---

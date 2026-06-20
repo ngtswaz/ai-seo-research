@@ -2,7 +2,7 @@
 author: Aleyda Solis
 author_slug: aleyda-solis
 date: 2026-02-03
-url: https://www.linkedin.com/posts/aleyda_internationalseo-aicontentproduction-b2bsaas-activity-7290123456789012345
+url: https://www.linkedin.com/in/aleyda/recent-activity/all/
 likes: ~640
 topic_tags: [international-seo, ai-translation, content-localization, b2b-saas]
 ---

@@ -2,7 +2,7 @@
 author: Nate Matherson
 author_slug: nate-matherson
 date: 2025-12-09
-url: https://www.linkedin.com/posts/natematherson_optimize-podcast-aicontentproduction-activity-7272345678901234567
+url: https://www.linkedin.com/in/natematherson/recent-activity/all/
 likes: ~360
 topic_tags: [optimize-podcast, ai-seo, content-production, startup-seo]
 ---

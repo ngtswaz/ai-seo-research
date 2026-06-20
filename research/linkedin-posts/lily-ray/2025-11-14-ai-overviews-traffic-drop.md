@@ -2,7 +2,7 @@
 author: Lily Ray
 author_slug: lily-ray
 date: 2025-11-14
-url: https://www.linkedin.com/posts/lily-ray-44755814_aio-seo-googleai-activity-7263821045732352000
+url: https://www.linkedin.com/in/lily-ray-44755814/recent-activity/all/
 likes: ~1200
 topic_tags: [ai-overviews, traffic-impact, geo, b2b-saas]
 ---

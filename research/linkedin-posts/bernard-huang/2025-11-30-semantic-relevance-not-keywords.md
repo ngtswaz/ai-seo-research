@@ -2,7 +2,7 @@
 author: Bernard Huang
 author_slug: bernard-huang
 date: 2025-11-30
-url: https://www.linkedin.com/posts/bernardhuang_seo-semanticsearch-contentoptimization-activity-7269876543210987520
+url: https://www.linkedin.com/in/bernardhuang/recent-activity/all/
 likes: ~410
 topic_tags: [semantic-seo, keyword-strategy, content-optimization, clearscope]
 ---

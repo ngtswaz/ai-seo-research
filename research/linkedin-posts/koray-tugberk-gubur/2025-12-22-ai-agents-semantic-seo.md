@@ -2,7 +2,7 @@
 author: Koray Tugberk GUBUR
 author_slug: koray-tugberk-gubur
 date: 2025-12-22
-url: https://www.linkedin.com/posts/koray-tugberk-gubur_aiagents-semanticseo-contentautomation-activity-7276789012345678901
+url: https://www.linkedin.com/in/koray-tugberk-gubur/recent-activity/all/
 likes: ~590
 topic_tags: [ai-agents, semantic-seo, content-automation, entity-optimization]
 ---

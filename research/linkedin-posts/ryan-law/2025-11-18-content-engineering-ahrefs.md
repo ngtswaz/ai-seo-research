@@ -2,7 +2,7 @@
 author: Ryan Law
 author_slug: ryan-law
 date: 2025-11-18
-url: https://www.linkedin.com/posts/ryanlaw91_contentengineering-ahrefs-aiwriting-activity-7264567890123456789
+url: https://www.linkedin.com/in/ryanlaw91/recent-activity/all/
 likes: ~1050
 topic_tags: [content-engineering, ahrefs, ai-writing, workflow]
 ---

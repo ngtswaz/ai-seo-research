@@ -2,7 +2,7 @@
 author: Koray Tugberk GUBUR
 author_slug: koray-tugberk-gubur
 date: 2025-10-31
-url: https://www.linkedin.com/posts/koray-tugberk-gubur_topicalauthority-semanticseo-holisticseo-activity-7258901234567890123
+url: https://www.linkedin.com/in/koray-tugberk-gubur/recent-activity/all/
 likes: ~720
 topic_tags: [topical-authority, semantic-seo, content-networks, holistic-seo]
 ---

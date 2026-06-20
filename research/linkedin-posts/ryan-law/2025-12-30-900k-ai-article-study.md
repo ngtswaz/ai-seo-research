@@ -2,7 +2,7 @@
 author: Ryan Law
 author_slug: ryan-law
 date: 2025-12-30
-url: https://www.linkedin.com/posts/ryanlaw91_aicontent-seo-research-activity-7277890123456789012
+url: https://www.linkedin.com/in/ryanlaw91/recent-activity/all/
 likes: ~1800
 topic_tags: [ai-content-study, research, ranking-analysis, ahrefs-data]
 ---

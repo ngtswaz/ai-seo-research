@@ -2,7 +2,7 @@
 author: Aleyda Solis
 author_slug: aleyda-solis
 date: 2025-12-19
-url: https://www.linkedin.com/posts/aleyda_seofomo-crawlingmondays-seo-activity-7275678901234567890
+url: https://www.linkedin.com/in/aleyda/recent-activity/all/
 likes: ~780
 topic_tags: [crawling-mondays, ai-seo, weekly-roundup, content-discovery]
 ---

@@ -2,7 +2,7 @@
 author: Tomasz Niezgoda
 author_slug: tomasz-niezgoda
 date: 2025-12-28
-url: https://www.linkedin.com/posts/tomasz-niezgoda_surfer-saas-contentmarketing-activity-7278012345678901234
+url: https://www.linkedin.com/in/tomasz-niezgoda/recent-activity/all/
 likes: ~890
 topic_tags: [saas-growth, content-marketing, surfer-seo, product-led-growth]
 ---

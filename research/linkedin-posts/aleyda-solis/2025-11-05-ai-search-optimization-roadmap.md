@@ -2,7 +2,7 @@
 author: Aleyda Solis
 author_slug: aleyda-solis
 date: 2025-11-05
-url: https://www.linkedin.com/posts/aleyda_aiso-seo-aioptimization-activity-7261234567890123456
+url: https://www.linkedin.com/in/aleyda/recent-activity/all/
 likes: ~1100
 topic_tags: [ai-search-optimization, aiso, roadmap, content-strategy]
 ---

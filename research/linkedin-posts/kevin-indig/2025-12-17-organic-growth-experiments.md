@@ -2,7 +2,7 @@
 author: Kevin Indig
 author_slug: kevin-indig
 date: 2025-12-17
-url: https://www.linkedin.com/posts/kevinindig_growthmemo-seo-experiment-activity-7274567890123456789
+url: https://www.linkedin.com/in/kevinindig/recent-activity/all/
 likes: ~710
 topic_tags: [seo-experiments, organic-growth, content-testing, data-driven]
 ---

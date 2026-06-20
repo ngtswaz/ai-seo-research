@@ -2,7 +2,7 @@
 author: Nate Matherson
 author_slug: nate-matherson
 date: 2026-01-22
-url: https://www.linkedin.com/posts/natematherson_b2bsaas-contentmetrics-seo-activity-7286789012345678901
+url: https://www.linkedin.com/in/natematherson/recent-activity/all/
 likes: ~520
 topic_tags: [content-metrics, b2b-saas, roi, content-attribution]
 ---

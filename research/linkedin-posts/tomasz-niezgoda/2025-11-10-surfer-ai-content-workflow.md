@@ -2,7 +2,7 @@
 author: Tomasz Niezgoda
 author_slug: tomasz-niezgoda
 date: 2025-11-10
-url: https://www.linkedin.com/posts/tomasz-niezgoda_surfer-aicontentproduction-b2bsaas-activity-7262890123456789012
+url: https://www.linkedin.com/in/tomasz-niezgoda/recent-activity/all/
 likes: ~670
 topic_tags: [surfer-seo, ai-content-workflow, content-optimization, b2b-saas]
 ---

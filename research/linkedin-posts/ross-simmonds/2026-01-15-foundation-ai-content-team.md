@@ -2,7 +2,7 @@
 author: Ross Simmonds
 author_slug: ross-simmonds
 date: 2026-01-15
-url: https://www.linkedin.com/posts/rosssimmonds_foundation-aicontentteam-contentops-activity-7284234567890123456
+url: https://www.linkedin.com/in/rosssimmonds/recent-activity/all/
 likes: ~870
 topic_tags: [content-ops, team-structure, ai-integration, foundation]
 ---

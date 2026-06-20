@@ -2,7 +2,7 @@
 author: Kevin Indig
 author_slug: kevin-indig
 date: 2025-10-08
-url: https://www.linkedin.com/posts/kevinindig_seo-growthmemo-shopify-activity-7251234567890123456
+url: https://www.linkedin.com/in/kevinindig/recent-activity/all/
 likes: ~930
 topic_tags: [enterprise-seo, shopify, programmatic-seo, scale]
 ---

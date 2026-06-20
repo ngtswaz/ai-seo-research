@@ -2,7 +2,7 @@
 author: Koray Tugberk GUBUR
 author_slug: koray-tugberk-gubur
 date: 2026-02-18
-url: https://www.linkedin.com/posts/koray-tugberk-gubur_contentnetwork-internallinks-semanticseo-activity-7294567890123456789
+url: https://www.linkedin.com/in/koray-tugberk-gubur/recent-activity/all/
 likes: ~480
 topic_tags: [content-network, internal-linking, semantic-seo, site-architecture]
 ---

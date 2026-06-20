@@ -2,7 +2,7 @@
 author: Ross Simmonds
 author_slug: ross-simmonds
 date: 2025-10-28
-url: https://www.linkedin.com/posts/rosssimmonds_aimframework-contentmarketing-aitools-activity-7257890123456789012
+url: https://www.linkedin.com/in/rosssimmonds/recent-activity/all/
 likes: ~1300
 topic_tags: [aim-framework, ai-content, content-distribution, foundation]
 ---
