@@ -170,10 +170,12 @@ This shows work-in-progress discipline, which is part of what gets evaluated.
 - [x] Expert list researched and annotated (`research/sources.md`)
 - [x] YouTube transcript collection script (`scripts/fetch_youtube_transcripts.py`)
 - [x] LinkedIn post collection helper (`scripts/save_linkedin_post.py`)
-- [ ] YouTube transcripts collected (run script after getting API key)
-- [ ] LinkedIn posts collected — 5+ per expert minimum
-- [ ] Newsletter / framework excerpts added to `research/other/`
-- [ ] README updated with what was actually found
+- [x] YouTube transcripts collected — 14 transcripts across all 10 experts via Supadata API
+- [x] LinkedIn posts collected — 30 posts, 3 per expert, all 10 experts
+- [x] Framework notes added (`research/other/frameworks/`) — Topical Authority, AIM Framework, Product-Led SEO
+- [x] Newsletter excerpts added (`research/other/newsletter-excerpts/`) — Growth Memo, SEOFOMO
+- [x] Podcast summaries added (`research/other/podcast-summaries/`) — Lenny's Podcast, Optimize Podcast
+- [x] README updated with what was actually found
 
 ---
 
